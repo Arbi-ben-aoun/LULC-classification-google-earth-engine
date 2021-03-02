@@ -9,6 +9,6 @@ original landsat 8 true color image
 
 Classification results :
 
-![b](b.jpg)
+![](https://github.com/Arbi-ben-aoun/LULC-classification-google-earth-engine/blob/main/b.JPG)
 
  
