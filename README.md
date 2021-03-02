@@ -4,7 +4,7 @@ The study area is balaton hungary , by using using google earth engine geomerty 
 
 original landsat 8 true color image 
 
-![a](a.jpg)
+![](https://github.com/Arbi-ben-aoun/LULC-classification-google-earth-engine/blob/main/a.JPG)
 
 
 Classification results :
